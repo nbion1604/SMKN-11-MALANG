@@ -1,0 +1,37 @@
+RPL 2
+Studi kasus perulangan/percabangan
+Kelompok 1:
+a. sulfin, rizal
+kelompok 2:
+a bagas silvia
+kelompok 3 :
+a. indah syahrur ryan
+kelompok 4 :
+a zahra kevin 
+kelompok 5 :
+a. kesya radit
+kelompok 6 :
+a. luki sevila 
+Kelompok 7 :
+a. rama suci
+kelompok 8 :
+a. miya bima
+kelompok 9 :
+a. sava wahyu 
+kelompok 10 :
+a febri savira
+kelompok 11 :
+a. azam sinta
+kelompok 12 :
+a. ravi olvin
+kelompok 13 :
+a. roni mutiara 
+kelompok 14 :
+a. akbar taufik 
+Kelompok 15 :
+a. navi restu
+kelompok 16 :
+a. revan rehan 
+kelompok 17 :
+a. rasya pandhu 
+Minggu depan presentasi perulangan percabangan (pakai vs code/ compiler online)
